@@ -6,7 +6,7 @@ This guide will help you set up a Telegram bot that automatically reposts messag
 
 ## Requirements
 
-- A Telegram bot token (obtain from [BotFather](https://t.me/botfather)).
+- A Telegram bot token (obtain from [BotFather](https://t.me/botfather))
 - Admin access to both the source and target channels.
 - A GitHub account.
 
